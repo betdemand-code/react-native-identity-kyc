@@ -16,8 +16,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prembly/react-native-identity-kyc.git",
-    "baseUrl": "https://github.com/prembly/react-native-identity-kyc"
+    "url": "git+https://github.com/betdemand-code/react-native-identity-kyc-stakefair.git",
+    "baseUrl": "https://github.com/betdemand-code/react-native-identity-kyc-stakefair"
   },
   "keywords": [
     "react-native"
